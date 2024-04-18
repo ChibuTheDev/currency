@@ -32,6 +32,8 @@ function App() {
               <option value="NGN">NGN</option>
             </select>
 
+            <p>Output is :</p>
+
     </div>
   );
 }
